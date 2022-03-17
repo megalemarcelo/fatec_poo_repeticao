@@ -3,7 +3,7 @@ public class ex02while {
 
     int i=100;
 
-    while(i >= 0) {
+    while(i >= 1) {
         System.out.println(i);
         i--;
     }

@@ -3,7 +3,7 @@ public class ex02for {
 
     int i;
 
-    for (i = 100; i >= 0;  i--) {
+    for (i = 100; i >= 1;  i--) {
         System.out.println(i);
     }
     }

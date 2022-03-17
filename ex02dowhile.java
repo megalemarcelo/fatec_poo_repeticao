@@ -6,6 +6,6 @@ public class ex02dowhile {
     do {
         System.out.println(i);
         i--;
-    } while (i >= 0);
+    } while (i >= 1);
     }
 }
