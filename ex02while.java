@@ -1,11 +1,11 @@
-public class ex01for {
+public class ex02while {
     public static void main(String[] args) {
 
-    int i;
+    int i=100;
 
-    for (i = 0; i <= 100;  i++) {
+    while(i >= 0) {
         System.out.println(i);
+        i--;
     }
-    
     }
 }
