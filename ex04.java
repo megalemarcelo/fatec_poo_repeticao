@@ -11,7 +11,7 @@ public class ex04 {
               
         while (n >= n1) {  
             n1++;  
-            resto = n % n1;   
+            resto = n % n1;
             
             if (resto == 0){  
                 i++;  
